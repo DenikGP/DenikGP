@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis Portnoy @DenikGP
 - 👀 I’m interested in QA, IT, Technology
-- 📫 How to reach me: denikgp@gmail.com, https://t.me/DenisPortnoy
+- 📫 How to reach me: denikgp@gmail.com, https://t.me/DenisPortnoy, +380661450307
 
 <!---
 DenikGP/DenikGP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
